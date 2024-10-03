@@ -1,0 +1,48 @@
+.menu{
+    font-size: large;
+    text-align: left;
+    padding: 40px;
+    list-style: none;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    background-color: rgb(31, 30, 30);
+    box-shadow: 22px 8px rgb(61, 57, 57) ;
+    width: 300px;
+    color: white;
+    float: left;
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none ;
+    text-align: center;
+}
+
+.menu ul li a:hover{
+    color: red;
+    font-size: 2em; 
+}
+
+.cabecera{
+    border-style: solid;
+    list-style: none;
+    color: white;
+    text-decoration: none ;
+    text-align: left;
+    border-color: red;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 22px 8px rgb(61, 57, 57) ;
+    width: 400px;
+}
+
+.cabecera ul li a{
+    color: white;
+    text-decoration: none ;
+    text-align: center;
+}
+
+.cabecera ul li a:hover{
+    color: red;
+    font-size: 2em; 
+}
